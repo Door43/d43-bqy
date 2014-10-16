@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqy:home|Door43 (bqy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqy|d43-bqy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqy/archive/master.zip|d43-bqy.zip]]
+
+**Recent Changes**
+{{changes>ns = bqy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqy|Ethnologue data]]
+
